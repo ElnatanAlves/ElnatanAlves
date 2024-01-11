@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Elnatan, programmer and developer!
 
-<!--
-**ElnatanAlves/ElnatanAlves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ° Developing applications (web and mobile)
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img text-align="center" height="40" width="40 alt="Elnatan-Kotlin"  src="https://github.com/ElnatanAlves/ElnatanAlves/assets/156375539/a927601f-2779-4888-92a0-feb3bf0c28a2">
+  <img text-aling="center" height="40" width="40 alt="Elnatan-Phyton" src="https://github.com/ElnatanAlves/ElnatanAlves/assets/156375539/3956e86b-78b7-4840-96a3-6993625ea5f6">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+
+
+  
