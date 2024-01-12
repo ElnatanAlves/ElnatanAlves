@@ -1,6 +1,6 @@
-### Hi there, I'm Elnatan, programmer and developer!
+### Hi there, I'm Elnatan, programmer! 👋🏻
 
- ° Developing applications (web and mobile)
+ ▪️ Developing applications (web and mobile)
 
 <div style="display: inline_block"><br>
   <img text-align="center" height="35" width="35" alt="Elnatan-Kotlin"  src="https://github.com/ElnatanAlves/ElnatanAlves/assets/156375539/a927601f-2779-4888-92a0-feb3bf0c28a2">
