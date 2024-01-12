@@ -1,6 +1,6 @@
 ### Hi there, I'm Elnatan, programmer! 👋🏻
 
- ▪️ Developing applications (web and mobile)
+ ▪️ Student developing applications (web and mobile)
 
 <!--
 <div style="display: inline_block"><br>
